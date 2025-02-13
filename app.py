@@ -1,6 +1,6 @@
 import asyncio
 from telegram import Update
-from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
+from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes # type: ignore
 
 # Replace with your actual bot token from BotFather
 BOT_TOKEN = "Token"
