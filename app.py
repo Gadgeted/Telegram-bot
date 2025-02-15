@@ -3,6 +3,10 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes # type: ignore
 
 # Replace with your actual bot token from BotFather
+# Replace with your actual bot token from BotFather
+
+# Replace with your actual bot token from BotFather
+
 BOT_TOKEN = "Token"
 
 # Store user data
