@@ -4,7 +4,9 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 
 # Replace with your actual bot token from BotFather
 # Replace with your actual bot token from BotFather
+# Replace with your actual bot token from BotFather
 
+# Replace with your actual bot token from BotFather
 # Replace with your actual bot token from BotFather
 
 BOT_TOKEN = "Token"
